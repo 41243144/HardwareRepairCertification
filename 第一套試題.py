@@ -88,7 +88,7 @@ class Test1():
 
         data = self.loadFile(fileLocation)
         
-        resultMsg = '第三題結果：'
+        resultMsg = '第二題結果：'
 
         # 依續加入數字，並換行
         for i in range(1, len(data)+1):
